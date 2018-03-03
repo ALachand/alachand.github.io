@@ -1,5 +1,4 @@
-
-You have an error on line 5 of your `_config.yml` file. For more informatititle: Armand Lachand
+title: Armand Lachand
 description: Personal website
 author: Armand Lachand
 github: https://github.com/alachand
@@ -44,7 +43,7 @@ urls:
     - text: Research
       url : /research/
         text-2: "Publications"
-      url-2: /cv/#Publications
+        url-2: /cv/#Publications
     - text: Teaching
       url: /teaching/
     - text: Freedom and alternatives
