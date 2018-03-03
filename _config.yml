@@ -1,11 +1,14 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: Armand Lachand
+description: Personal website
+author: Armand Lachand
+github: https://github.com/alachand
+about: Frelance researcher in Number Theory, CrypI am freelance developer. Currently doing more in backend, focused in Python and Django.
+#disqus_shortname: stackproblems
+#google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
+
+exclude: [build, templates, requirements.txt, README.md, Makefile, generate.py, cv.yaml, Gemfile, LICENSE*]
+
 
 enableTags: true
 tagarray: []
@@ -17,29 +20,39 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "mailto:research@lachand.net"
+  #  - icon: fa-twitter
+  #    link: "https://twitter.com/agusmakmun6"
+  #  - icon: fa-linkedin
+  #    link: "https://www.linkedin.com/in/summonagus"
+  #  - icon: fa-stack-exchange
+  #    link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/alachand"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  #twitter_username: agusmakmun6
+  #fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: CV
+      url: /cv/
+    # - text: Projects
+    #   url: /projects/
+    - text: Research
+      url : /research/
+       text-2: "Publications"
+      url-2: /cv/#Publications
+    - text: Teaching
+      url: /teaching/
+    - text: Freedom and alternatives
+      url: /alternatives/
+    #- text: Research tips
+     # url: /researchresources/
+ #   - text: Feed
+ #     url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://alachand.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
