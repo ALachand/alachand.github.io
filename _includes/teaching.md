@@ -1,5 +1,5 @@
 {% assign past_year = 0 %}
-{% for class in site.data.teachings %}
+{% for class in site.data.teaching %}
 {% assign current_year = class.year %}
 {% if class.display == 'y' %}
 {% if past_year != current_year %}
