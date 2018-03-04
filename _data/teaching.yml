@@ -68,7 +68,7 @@
 #  role: Responsable
   display: y
   hours: 64
-#  link: 2017/xmlweb
+  link: "http://polytech-nancy.univ-lorraine.fr/"
 
 # - year:
 #   titre:
