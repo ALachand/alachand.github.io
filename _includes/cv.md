@@ -2,34 +2,24 @@
 
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>09/2013 - Present</td>
+  <td class='col-md-3'>09/2016 - Present</td>
   <td>
-    <strong>Université Claude Bernard Lyon 1 & CNRS</strong>, France <br/>
- Associate Professor, Computer Science Laboratory (LIRIS).  </td>
+    <strong>Freelance researcher & French Guyana</strong>, France  </td>
 </tr>
 <tr>
-  <td class='col-md-3'>07/2013</td>
+  <td class='col-md-3'>09/2015 - 08/2016</td>
   <td>
-    <strong>Independent Consultant for Factor Product</strong>, Munich, Germany <br/>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>03/2012 - 06/2013</td>
-  <td>
-    <strong>University of Munich (LMU)</strong>, Germany <br/>
- Post doctoral fellow, Human Computer Interaction Group.  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>10/2009 - 03/2012</td>
+    <strong>Aix-Marseille University for Factor Product</strong>, Marseille, France<br - 03/2012</td>
   <td>
     <strong>IT University of Copenhagen</strong>, Denmark <br/>
  Post doctoral fellow, pervasive Interaction Technology lab (pITlab).  </td>
 </tr>
 <tr>
-  <td class='col-md-3'>09/2005 - 09/2009</td>
+  <td class='col-md-3'>09/2011 - 08/2015</td>
   <td>
-    <strong>INRIA and LRI (Université Paris-Sud & CNRS)</strong>, Orsay, France <br/>
- Ph.D. student, in|situ| group, Wendy E. Mackay.  </td>
+    <strong>Institut Élie Cartan de Lorraine 
+(Université de Lorraine & CNRS)</strong>, Nancy, France <br/>
+ Ph.D. student, in|situ| group, Cécile Dartyge  </td>
 </tr>
 </table>
 
@@ -39,11 +29,11 @@
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">11/2009</td>
+    <td class="col-md-3">12/20</td>
     <td>
-        <strong>Ph.D. in Computer Science</strong>
+        <strong>Ph.D. in Mathematics</strong>
         <br>
-      Université Paris-Sud (Paris XI)
+      Université de Lorraine
     </td>
   </tr>
   <tr>
@@ -725,31 +715,25 @@
 <tr>
   <td class='col-md-2'>Programing</td>
   <td markdown="1">
-JavaScript, Python, Flash/Flex, JAVA (mostly Android SDK and Processing), C\# (and .Net), C.
+PHP, Python.
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Web</td>
   <td markdown="1">
-Node.js, Backbone, React, D3, Google App Engine.
+HTML 5, CSS 3, Javascript.
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Electronics</td>
+  <td class='col-md-2'>Scientific Software</td>
   <td markdown="1">
-Arduino, AVR Microcontrollers.
+Octave, R, Sage
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Design tools</td>
   <td markdown="1">
-Adobe Illustrator, Adobe InDesign, Inkscape, Axure.
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Hardware prototyping</td>
-  <td markdown="1">
-3D printing and laser cutting.
+Gimp, Inkscape, Scribus.
   </td>
 </tr>
 </table>
@@ -777,9 +761,21 @@ fluent
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>German</td>
+  <td class='col-md-2'>Portuguese</td>
   <td markdown="1">
-conversational
+basis
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Aluku</td>
+  <td markdown="1">
+basis
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Wolof</td>
+  <td markdown="1">
+basis
   </td>
 </tr>
 </table>
