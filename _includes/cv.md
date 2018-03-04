@@ -63,7 +63,7 @@
 <table class="table table-hover">
 
     <tr>
-        <td>
+        <td class="col-md-12">
         Lachand A. (2017)
         <strong>Fonctions arithmétiques et formes binaires irréductibles de degré 3</strong>
         <i>Annales de l'Institut Fourier</i>. (accepted for publication), 78 pp.<br>
