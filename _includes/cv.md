@@ -4,7 +4,7 @@
 <tr>
   <td class='col-md-3'>09/2016 - Present</td>
   <td>
-    <strong>Freelance researcher & French Guyana</strong>, France  </td>
+    <strong>Freelance researcher</strong>, French Guyana, France  </td>
 </tr>
 <tr>
   <td class='col-md-3'>09/2015 - 08/2016</td>
@@ -42,7 +42,7 @@
         <strong>M.Sc. in Advanced Mathematics</strong>
           Université de Lyon <br/>
        	Thesis: <i>Sur les nombres premiers dans les progressions arithmétiques.</i>
-    Supervisor: Cécile Dartyge (Analysis team, IECL, Université de Lorraine, France).
+    Supervisor: [<a href='https://http://www.iecl.univ-lorraine.fr/~Cecile.Dartyge/'>Cécile Dartyge</a>] (Analysis team, IECL, Université de Lorraine, France).
     </td>
   </tr>
   <tr>
