@@ -42,8 +42,8 @@ urls:
     #   url: /projects/
     - text: Research
       url : /research/
-      text-2: "Publications"
-      url-2: /cv/#Publications
+      text: "Publications"
+      url: /publications
     - text: Teaching
       url: /teaching/
     - text: Freedom and alternatives
