@@ -65,47 +65,6 @@
 </table>
 
 
-<h3> <a class="smaller" name="Projects"><i class="fa fa-chevron-right smaller"></i></a> Projects </h3>
-
-<table class="table table-hover">
-<tr>
-  <td class='col-md-3'><a href="http://placedproject.eu/">PLACED (ERA-NET)</a></td>
-  <td>
-    French coordinator, 2017-2020 <br/>
-    <p>PLACED is an ERA-NET project in collaboration with Aarhus University, Chalmers University, Université de Lyon and the National School of Libraries in France (ENSSIB). The project aims to reinvent the services provided by city libraries. We will design and develop news types of place- and activity-centric digital services. Whereas library services typically focus on providing access to a collection of physical media, PLACED services support activities (e.g. hackathons, public readings, discussion groups) in the library. The groundbreaking aspect is that these services capture knowledge generated through these activities, make them a part of the library’s collection, and allow future library users to explore and access them.</p>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>REPI (FUI)</td>
-  <td>
-    co-PI, 2016-2019 <br/>
-    <p>REPI is a FUI project. Our goal is to design and study how Orchestration and Activity Based Computing could be integrated into new platforms and services for high-schools.</p>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1319829">Activity-Enriched Computing (NSF)</a></td>
-  <td>
-    self-funded participant, 2013-2017 <br/>
-    <p>Although myriad extraordinary benefits have resulted from the web and expanding network connectivity, the intertwining of computers with virtually every aspect of life also brings a growing stream of interruptions. These interruptions and the fragmenting of activity they produce are increasingly accepted parts of modern life. A critical research challenge for human-centered computing is how to smooth and mitigate the impact of interruptions as well as assist in resuming interrupted activities. Meeting this challenge will require moving beyond the traditional document-centric view of information to address the complexity of real activity, its often fragmented history, and the need to access information arrayed across digital and paper media.</p>
-    <p>This project will explore the design of systems that will allow people to exploit visual and episodic memory to benefit from the capture of the history and context of their computer-mediated activities. The heart of the project is rethinking the nature of data as stored in computers from being a state to being an inspectable activity history of interaction that can be presented to users. Activity-enriched computing has the potential to reshape how we use computers by creating systems that react to and are augmented by the history of past events, changing the computer environment to one in which history is always available to assist if needed. The primary scientific contributions will be to (a) develop an activity-enriched computing framework for designing a new class of systems in which history is a first-class element, (b) prototype and evaluate activity-enriched applications, and (c) extend theory and methods for representing, visualizing, and analyzing activity histories. Scientific contributions will include a novel activity-enriched computing framework that will (a) capture the rich detail of computer-mediated activity, (b) identify and make meaningful and useful episodes available, (c) link the worlds of paper and digital documents, and (d) exploit summarization and visual access mechanisms to support navigation of activity histories and ease resuming interrupted activities. The overarching objective is to lessen the impact of interruptions and aid reestablishment of context.</p>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'><a href="https://projet-episteme.org/">Episteme (ANR)</a></td>
-  <td>
-    participant, 2014-2018 <br/>
-    <p>Épistémologie transdisciplinaire des technologies numériques pour la conception d’un nouvel environnement de catégorisation contributive et d’instruments contributifs de recherche, d’enseignement et de diffusion associés.</p>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'><a href="http://jenlab.fr/">Jenlab (ANR)</a></td>
-  <td>
-    participant, 2014-2018 <br/>
-    <p>Apprentissage avec les Jeux Épistémiques Numériques (Usages-Technologies-Méthodologies).</p>
-  </td>
-</tr>
-</table>
-
 
 <h3> <a class="smaller" name="Publications"><i class="fa fa-chevron-right smaller"></i></a> Publications </h3>
 
@@ -122,10 +81,10 @@
     <tr>
     <td class="col-md-3">_</td>
     <td>
-        Rule A., Tabard A., and Hollan J. (2017)
-        <strong>Using Visual Histories to Reconstruct the Mental Context of Suspended Activities</strong>
-        <i>Human-Computer Interaction</i>. 0(just-accepted), 0-25.<br>
-        [J1]<br>
+        Lachand A. (2017)
+        <strong>Fonctions arithmétiques et formes binaires irréductibles de degré 3</strong>
+        <i>Annales de l'Institut Fourier</i>. (accepted for publication), 78 pp.<br>
+        [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>] <br>
         
     </td>
     </tr>
@@ -134,15 +93,45 @@
     <tr>
     <td class="col-md-3">_</td>
     <td>
-        Stusak S., Tabard A., Sauka F., Khot R., and Butz A. (2014)
-        <strong>Activity sculptures: Exploring the impact of physical visualizations on running activity</strong>
-        <i>IEEE transactions on visualization and computer graphics</i>. 20(12), 2201-2210.<br>
-        [J2]<br>
+        Lachand A. (2017)
+        <strong>On the representation of friable integers by linear forms</strong>
+        <i>Acta Arith.</i>. 181, 97-109.<br>
+          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
+        
+    </td>
+    </tr>
+
+   <tr>
+    <td class="col-md-3">_</td>
+    <td>
+        Barbulescu R. and Lachand A. (2017)
+        <strong>Some mathematical remarks on the polynomial selection in NFS</strong>
+        <i>Math. Comp.</i>. 86, 397-418.<br>
+          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
         
     </td>
     </tr>
     
-
+  <tr>
+    <td class="col-md-3">_</td>
+    <td>
+        Lachand A. and Tenenbaum G. (2015)
+        <strong>Note sur les valeurs moyennes criblées de certaines fonctions arithmétiques</strong>
+        <i>Quart. J. Math. (Oxford)/i>. 66, 245-250.<br>
+          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
+        
+    </td>
+    </tr>
+ <tr>
+    <td class="col-md-3">_</td>
+    <td>
+        Lachand A.
+        <strong>Valeurs friables d'une forme quadratique et d'une forme linéaire</strong>
+        <i>Quart. J. Math. (Oxford)/i>. 66, 225-244.<br>
+          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
+        
+    </td>
+    </tr>
 </table>
 
 
@@ -153,8 +142,8 @@
     <tr>
     <td class="col-md-3"><a href='https://hal.archives-ouvertes.fr/hal-01493415' target='_blank'>_</a> </td>
     <td>
-        Vitale F., Mcgrenere J., Tabard A., Beaudouin-Lafon M., and Mackay W. (2017)
-        <strong><a href='https://hal.archives-ouvertes.fr/hal-01493415'>High Costs and Small Benefits: A Field Study of How Users Experience Operating System Upgrades</a></strong>
+        Barbulescu R. and Lachand A. (2017)
+        <strong>Some mathematical remarks on the polynomial selection in NFS</strong>
         In <i>CHI 2017</i>. (pp. 0-12). Denver, United States,<br>
         [CP1] [<a href='https://hal.archives-ouvertes.fr/hal-01493415' target='_blank'>pdf</a>]  [<a href='10.1145/3025453.3025509' target='_blank'>doi</a>] <br>
         
@@ -674,39 +663,6 @@
 
 </table>
 
-
-<h3> <a class="smaller" name="Honors & Scholarships"><i class="fa fa-chevron-right smaller"></i></a> Honors & Scholarships </h3>
-
-<table class="table table-hover">
-<tr>
-  <td class='col-md-2'>ACM ITS’11</td>
-  <td>
-    Best Paper Award
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>ACM CHI'11</td>
-  <td>
-    Best Paper, Honorable Mention
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2006</td>
-  <td>
-    Finalist of Mattel's Student Design Competition
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2005</td>
-  <td>
-    Ph.D. scholarship (bourse ministèrielle)
-    <!--  -->
-  </td>
-</tr>
-</table>
 
 
 <h3> <a class="smaller" name="Skills"><i class="fa fa-chevron-right smaller"></i></a> Skills </h3>
