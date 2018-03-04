@@ -63,7 +63,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
+#compress_html:
+#  clippings: all
+#  comments: ["<!-- ", " -->"]
+#  endings: all
