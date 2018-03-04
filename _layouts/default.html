@@ -132,7 +132,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="navbar-header">
 						  <div>  <a href="/" class="navbar-brand"><img id="about" src="/static/img/avatar.jpg" height="75px" width="75px" /></a>
-                <h2 class="author-name">{{ site.author }}</h2>
+                <h2>{{ site.author }}</h2>
                      </div>
               </a>
 						<button class="navbar-toggle" type="button" data-toggle="collapse"
@@ -144,13 +144,17 @@
 					</div>
 					<div class="navbar-collapse collapse" id="navbar-main">
 						<ul class="nav navbar-nav">
-							<li>
-								<a href="/">About</a>
-							</li>
-							<li>
-								<a href="/blog/">Blog</a>
-							</li>
+							  <li> <a href="/">Home</a> </li>
+                    <!-- &nbsp;&raquo; -->
+                {% for i in site.urls %}
+                    <li>
+                      <a class="about" href="{{ i.url }}">{{ i.text }}</a>
+                      {% if i.url-2 %}(<a class="smaller about" href="{{ i.url-2 }}">{{ i.text-2 }}</a>){% endif %}
+                    </li>
+                {% endfor %}
 						</ul>
+<div>
+                             </div>
 						<ul class="nav navbar-nav navbar-right" style="font-size: 1.5em">
 							<li>
 								<a href="http://github.com/bamos" target="_blank">
