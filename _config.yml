@@ -22,8 +22,8 @@ collections:
 social:
     - icon: fa-facebook
       link: "mailto:research@lachand.net"
-  #  - icon: fa-twitter
-  #    link: "https://twitter.com/agusmakmun6"
+    - icon: hal-icon
+      link: "https://hal.archives-ouvertes.fr/search/index/q/%2A/authIdHal_s/armandlachand/"
   #  - icon: fa-linkedin
   #    link: "https://www.linkedin.com/in/summonagus"
   #  - icon: fa-stack-exchange
