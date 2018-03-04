@@ -1,3 +1,6 @@
+.hal-icon {
+	background-image: url("/static/img/hal.png");
+}
 body {
   font-family: "Roboto Condensed", Arial, sans-serif;
   background: url("/static/img/subtle_dots.png");
