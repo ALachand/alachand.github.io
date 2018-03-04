@@ -8,7 +8,7 @@ about: "Frelance researcher in French Guyana : Number Theory, Cryptographic and 
 #google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
-exclude: [build, templates, requirements.txt, README.md, Makefile, generate.py, cv.yaml, Gemfile, LICENSE*]
+#exclude: [build, templates, requirements.txt, README.md, Makefile, generate.py, cv.yaml, Gemfile, LICENSE*]
 
 
 enableTags: true

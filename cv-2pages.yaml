@@ -132,32 +132,32 @@ teaching:
     position: TA
 
 publications:
-  name: "A. Tabard"
+  name: "A. Lachand"
   categories:
     - heading: Journal Articles
       prefix: J
       file: journal.bib
-    - heading: Conference Articles
-      prefix: CP
-      file: conference.bib
-    # - heading: Magazine Articles
-    #   prefix: M
-    #   file: magazine.bib
-    # - heading: Book Chapters
-    #   prefix: BC
-    #   file: chapters.bib
-    - heading: Workshop Articles and Demonstrations
-      prefix: WS
-      file: short.bib
-    - heading: Posters
-      prefix: P
-      file: posters.bib
-    - heading: Workshop Organization and Proceedings
-      prefix: WS
-      file: workshop-org.bib
-    - heading: Tech Reports
-      prefix: TR
-      file: tech-reports.bib
+#    - heading: Conference Articles
+#      prefix: CP
+#      file: conference.bib
+#    # - heading: Magazine Articles
+#    #   prefix: M
+#    #   file: magazine.bib
+#    # - heading: Book Chapters
+#    #   prefix: BC
+#    #   file: chapters.bib
+#    - heading: Workshop Articles and Demonstrations
+#      prefix: WS
+#      file: short.bib
+#    - heading: Posters
+#      prefix: P
+#      file: posters.bib
+#    - heading: Workshop Organization and Proceedings
+#      prefix: WS
+#      file: workshop-org.bib
+#    - heading: Tech Reports
+#      prefix: TR
+#      file: tech-reports.bib
 
 
 skills:
