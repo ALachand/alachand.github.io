@@ -9,7 +9,7 @@
 ### {{ class.titre }}
 <!-- class.shortname -->
 <!-- class.hours -->
-  _{{ class.track }}_ - [page du cours]({{ class.link }})
+  _{{ class.track }}_ - [Course page]({{ class.link }})
 
 {{ class.details }}
 
@@ -19,5 +19,4 @@
 
 {% endfor %}
 
-## Pre-2016
-[check my archive here](http://tabard.fr/courses/)
+
