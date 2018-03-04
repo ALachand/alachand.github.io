@@ -1,74 +1,110 @@
-- year: 2014-2015
-  titre: Mathématiques pour la Biologie
-  shortname: Mathématiques pour la Biologie
-  track: L1 Biologie - Faculté des Sciences et Techniques de Nancy
-#  role: Responsable
+
+- year: 2017-2018
+  titre: Gestion de projet et génie logiciel
+  title: Project Management and Software Engineering
+  shortname: M1if01
+  track: Master Informatique
+  role: Responsable
   display: y
   hours: 30
-#  link: 2017/xmlweb
+  link: 2017/mif01/
 
-- year: 2014-2015
-  titre: Mathématiques pour la Gestion
-  shortname: Mathématiques pour la Gestion
-  track: 1ère année GEA - IUT Nancy-Charlemagne
-#  role: Responsable
+- year: 2016-2017
+  titre: Data Visualization
+  title: Data Visualization
+  shortname: DataViz
+  track: Master 2 Informatique
+  role: Responsable
   display: y
-  hours: 18
-#  link: 2017/xmlweb
+  hours: 30
+  link: https://lyondataviz.github.io/teaching/lyon1-m2/
+  details:
+    "<p>Covers general principles of visualization, theories, and design methods applied to these three broad data categories:</p>
+    <ul>
+    <li> Visualizing temporal data </li>
+    <li> Visualizing spatial data (maps) </li>
+    <li> Visualizing network data (graphs) </li>
+    </ul>"
 
-- year: 2014-2015
-  titre: Colles d'Algèbre et Analyse
-  shortname: Colles d'Algèbre et Analyse
-  track: L1 et L2 Mathématiques - Faculté des Sciences et Techniques de Nancy
-#  role: Responsable
+- year: 2016-2017
+  titre: UX Design
+  title: UX Design
+  shortname: INF03
+  track: Master Architecture de l'information
+  role: Responsable
   display: y
-  hours: 24
-#  link: 2017/xmlweb
+  hours: 30
+  link: http://etudes.ens-lyon.fr/course/view.php?id=1766
+  details:
+        "<p>Covers the whole User-Centered design cycle:</p>
+        <ul>
+        <li> User research </li>
+        <li> Sketching and prototyping </li>
+        <li> Quantitative and qualitative evaluation methods </li>
+        </ul>"
 
-- year: 2014-2015
-  titre: Algèbre linéaire - remise à niveau ENAF
-  shortname: Algèbre linéaire - remise à niveau ENAF
-  track: Cycle Préparatoire Polytechnique
-#  role: Responsable
+- year: 2016-2017
+  titre: Web Avancé et Mobile
+  title: Advanced Web Development
+  shortname: MIF38
+  track: Master Informatique
+  role: Invité
   display: y
-  hours: 10
-#  link: 2017/xmlweb
+  hours:
+  link: http://liris.cnrs.fr/~lmedini/enseignement/MIF38/
+  details:
+    "<ul>
+    <li> Responsive Web Design </li>
+    <li> Reactive Programming for the Web </li>
+    <li> Offline and Native Web applications </li>
+    </ul>"
 
-- year: 2014-2015
-  titre: Compléments de Mathématiques
-  shortname: Compléments de Mathématiques
-  track: Cycle Préparatoire Polytechnique
-#  role: Responsable
+- year: 2016-2017
+  titre: Gestion de projet et génie logiciel
+  title: Project Management and Software Engineering
+  shortname: M1if02
+  track: Master Informatique
+  role: Responsable
   display: y
-  hours: 54
-#  link: 2017/xmlweb
+  hours: 30
+  link: 2016/mif02/
+  # details
 
-- year: 2013-2014
-  titre: Mathématiques pour l'Ingénieur
-  shortname: Mathématiques pour l'Ingénieur
-  track: Ecole Supérieure des Sciences et Techniques de l'Ingénieur de Nancy
-#  role: Responsable
+- year: 2016-2017
+  titre: Génie logiciel
+  title: Introduction to Software Engineering
+  shortname: GL
+  track: Master CCI
+  role: Responsable
   display: y
-  hours: 64
-#  link: 2017/xmlweb
+  hours: 30
+  link: 2016/gl
+  details:
+    - Contexte, méthodes et processus + Processus Unifié
+    - Introduction à UML
+    - UML, Cas d'Utilisation
+    - UML, Diagrammes Statiques
+    - UML, Diagrammes Dynamiques
 
-- year: 2012-2013
-  titre: Mathématiques pour l'Ingénieur
-  shortname: Mathématiques pour l'Ingénieur
-  track: Ecole Supérieure des Sciences et Techniques de l'Ingénieur de Nancy
-#  role: Responsable
+- year: 2016-2017
+  titre: Intro SIG
+  shortname: Intro SIG
+  track: Master CCI
+  role: Responsable
   display: y
-  hours: 64
-#  link: 2017/xmlweb
+  hours: 30
+  link: 2016/sig
 
-- year: 2011-2012
-  titre: Mathématiques pour l'Ingénieur
-  shortname: Mathématiques pour l'Ingénieur
-  track: Ecole Supérieure des Sciences et Techniques de l'Ingénieur de Nancy
-#  role: Responsable
+- year: 2016-2017
+  titre: XML et Web
+  shortname: XML et Web
+  track: Master CCI
+  role: Responsable
   display: y
-  hours: 64
-#  link: 2017/xmlweb
+  hours: 15
+  link: 2017/xmlweb
+
+
 
 # - year:
 #   titre:

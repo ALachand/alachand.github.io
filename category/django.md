@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: osm
-title: OpenStreetMap
-permalink: /category/osm
+categories: django
+title: Django
+permalink: /category/django
 ---

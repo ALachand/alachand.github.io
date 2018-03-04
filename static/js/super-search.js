@@ -110,18 +110,11 @@
         }
         searchResultsEl.style.offsetWidth;
 
-        var matchingPosts;
-        // check the `posts` object is single or many objects.
-        // if posts.title === undefined, so posts is many objects.
-        if(posts.title === undefined) {
-          matchingPosts = posts.filter(function (post) {
-              if ((post.title + '').toLowerCase().indexOf(currentInputValue) !== -1 || (post.description + '').toLowerCase().indexOf(currentInputValue) !== -1) {
-                  return true;
-              }
-          });
-        }else {
-          matchingPosts = [posts]; // assign single object to Array
-        }
+        var matchingPosts = posts.filter(function (post) {
+            if ((post.title + '').toLowerCase().indexOf(currentInputValue) !== -1 || (post.description + '').toLowerCase().indexOf(currentInputValue) !== -1) {
+                return true;
+            }
+        });
         if (!matchingPosts.length) {
             searchResultsEl.classList.add('is-hidden');
         }
@@ -130,7 +123,7 @@
             searchResultsEl.classList.remove('is-hidden');
             searchResultsEl.innerHTML = matchingPosts.map(function (post) {
                 d = new Date(post.pubDate);
-                return '<li><a href="' + post.link + '">' + post.title + '<span class="search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
+                return '* <a href="' + post.link + '">' + post.title + '<span class="search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
             }).join('');
         }
         lastSearchResultHash = currentResultHash;
