@@ -10,14 +10,14 @@
   <td class='col-md-3'>09/2015 - 08/2016</td>
   <td>
     <strong>Aix-Marseille University</strong>, Marseille, France <br/>
- Post doctoral fellow  </td>
+ Post doctoral fellow, I2M, GDAC Team  </td>
 </tr>
 <tr>
   <td class='col-md-3'>09/2011 - 08/2015</td>
   <td>
     <strong>Institut Élie Cartan de Lorraine 
-(Université de Lorraine & CNRS)</strong>, Nancy, France <br/>
- Ph.D. student  </td>
+(Université de Lorraine)</strong>, Nancy, France <br/>
+ Ph.D. student, Analysis Team </td>
 </tr>
 </table>
 
@@ -29,10 +29,10 @@
   <tr>
     <td class="col-md-3">12/2014</td>
     <td>
-        <strong>Ph.D. in Mathematics</strong>
+        <strong>Ph.D. in Mathematics</strong><br/>
         Université de Lorraine <br/>
-       	Thesis: <i>Entiers friables et formes binaires.</i>
-    Supervisor: Cécile Dartyge (Analysis team, IECL, Université de Lorraine, France).
+       	Thesis: <i>Entiers friables et formes binaires.</i><br/>
+    Supervisor: <a href='http://www.iecl.univ-lorraine.fr/~Cecile.Dartyge/' target='_blank'>Cécile Dartyge</a>  (Analysis Team, IECL, Université de Lorraine, France).
     </td>
   </tr>
 
@@ -40,16 +40,16 @@
     <td class="col-md-3">09/2011</td>
     <td>
         <strong>M.Sc. in Advanced Mathematics</strong>
-          Université de Lyon <br/>
-       	Thesis: <i>Sur les nombres premiers dans les progressions arithmétiques.</i>
-    Supervisor: [<a href='https://http://www.iecl.univ-lorraine.fr/~Cecile.Dartyge/'>Cécile Dartyge</a>] (Analysis team, IECL, Université de Lorraine, France).
+          <br/> Université de Lyon <br/>
+       	Thesis: <i>Sur les nombres premiers dans les progressions arithmétiques.</i><br/>
+    Supervisor: <a href='http://www.iecl.univ-lorraine.fr/~Cecile.Dartyge/' target='_blank'>Cécile Dartyge</a> (Analysis team, IECL, Université de Lorraine, France).
     </td>
   </tr>
   <tr>
     <td class="col-md-3">09/2009</td>
     <td>
-        <strong>Licence in Mathematics</strong>
-                 <br>
+        <strong>B.Sc in Mathematics</strong>
+                 <br/>
       Université de Saint-Étienne
     </td>
   </tr>
@@ -80,7 +80,7 @@
         Lachand A. (2017)
         <strong>On the representation of friable integers by linear forms</strong>
         <i>Acta Arith.</i>. 181, 97-109.<br>
-          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
+          [<a href='https://hal.archives-ouvertes.fr/hal-01081277v3/document' target='_blank'>pdf</a>]<br>
         
     </td>
     </tr>
@@ -91,7 +91,7 @@
         Barbulescu R. and Lachand A. (2017)
         <strong>Some mathematical remarks on the polynomial selection in NFS</strong>
         <i>Math. Comp.</i>. 86, 397-418.<br>
-          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
+          [<a href='https://hal.inria.fr/hal-00954365v1/document' target='_blank'>pdf</a>]<br>
         
     </td>
     </tr>
@@ -101,8 +101,8 @@
     <td>
         Lachand A. and Tenenbaum G. (2015)
         <strong>Note sur les valeurs moyennes criblées de certaines fonctions arithmétiques</strong>
-        <i>Quart. J. Math. (Oxford)/i>. 66, 245-250.<br>
-          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
+        <i>Quart. J. Math. (Oxford)</i>. 66, 245-250.<br>
+          [<a href='https://hal.archives-ouvertes.fr/hal-01081309/document' target='_blank'>pdf</a>]<br>
         
     </td>
     </tr>
@@ -111,8 +111,8 @@
     <td>
         Lachand A.
         <strong>Valeurs friables d'une forme quadratique et d'une forme linéaire</strong>
-        <i>Quart. J. Math. (Oxford)/i>. 66, 225-244.<br>
-          [<a href='https://hal.archives-ouvertes.fr/hal-01213708' target='_blank'>pdf</a>]<br>
+        <i>Quart. J. Math. (Oxford)</i>. 66, 225-244.<br>
+          [<a href='https://hal.archives-ouvertes.fr/hal-01081661/document' target='_blank'>pdf</a>]<br>
         
     </td>
     </tr>
