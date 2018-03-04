@@ -1,0 +1,82 @@
+- year: 2014-2015
+  titre: Mathématiques pour la Biologie
+  shortname: Mathématiques pour la Biologie
+  track: L1 Biologie - Faculté des Sciences et Techniques de Nancy
+#  role: Responsable
+  display: y
+  hours: 30
+#  link: 2017/xmlweb
+
+- year: 2014-2015
+  titre: Mathématiques pour la Gestion
+  shortname: Mathématiques pour la Gestion
+  track: 1ère année GEA - IUT Nancy-Charlemagne
+#  role: Responsable
+  display: y
+  hours: 18
+#  link: 2017/xmlweb
+
+- year: 2014-2015
+  titre: Colles d'Algèbre et Analyse
+  shortname: Colles d'Algèbre et Analyse
+  track: L1 et L2 Mathématiques - Faculté des Sciences et Techniques de Nancy
+#  role: Responsable
+  display: y
+  hours: 24
+#  link: 2017/xmlweb
+
+- year: 2014-2015
+  titre: Algèbre linéaire - remise à niveau ENAF
+  shortname: Algèbre linéaire - remise à niveau ENAF
+  track: Cycle Préparatoire Polytechnique
+#  role: Responsable
+  display: y
+  hours: 10
+#  link: 2017/xmlweb
+
+- year: 2014-2015
+  titre: Compléments de Mathématiques
+  shortname: Compléments de Mathématiques
+  track: Cycle Préparatoire Polytechnique
+#  role: Responsable
+  display: y
+  hours: 54
+#  link: 2017/xmlweb
+
+- year: 2013-2014
+  titre: Mathématiques pour l'Ingénieur
+  shortname: Mathématiques pour l'Ingénieur
+  track: Ecole Supérieure des Sciences et Techniques de l'Ingénieur de Nancy
+#  role: Responsable
+  display: y
+  hours: 64
+#  link: 2017/xmlweb
+
+- year: 2012-2013
+  titre: Mathématiques pour l'Ingénieur
+  shortname: Mathématiques pour l'Ingénieur
+  track: Ecole Supérieure des Sciences et Techniques de l'Ingénieur de Nancy
+#  role: Responsable
+  display: y
+  hours: 64
+#  link: 2017/xmlweb
+
+- year: 2011-2012
+  titre: Mathématiques pour l'Ingénieur
+  shortname: Mathématiques pour l'Ingénieur
+  track: Ecole Supérieure des Sciences et Techniques de l'Ingénieur de Nancy
+#  role: Responsable
+  display: y
+  hours: 64
+#  link: 2017/xmlweb
+
+# - year:
+#   titre:
+#   title:
+#   shortname:
+#   track:
+#   role:
+#   display:
+#   hours:
+#   link:
+#   details:
