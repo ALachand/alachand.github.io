@@ -9,17 +9,15 @@
 <tr>
   <td class='col-md-3'>09/2015 - 08/2016</td>
   <td>
-    <strong>Aix-Marseille University for Factor Product</strong>, Marseille, France<br - 03/2012</td>
-  <td>
-    <strong>IT University of Copenhagen</strong>, Denmark <br/>
- Post doctoral fellow, pervasive Interaction Technology lab (pITlab).  </td>
+    <strong>Aix-Marseille University</strong>, Marseille, France <br/>
+ Post doctoral fellow  </td>
 </tr>
 <tr>
   <td class='col-md-3'>09/2011 - 08/2015</td>
   <td>
     <strong>Institut Élie Cartan de Lorraine 
 (Université de Lorraine & CNRS)</strong>, Nancy, France <br/>
- Ph.D. student, in|situ| group, Cécile Dartyge  </td>
+ Ph.D. student  </td>
 </tr>
 </table>
 
@@ -29,41 +27,30 @@
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">12/20</td>
+    <td class="col-md-3">12/2014</td>
     <td>
         <strong>Ph.D. in Mathematics</strong>
-        <br>
-        Université de Lorraine </td>
-    <td>
+        Université de Lorraine <br/>
        	Thesis: <i>Entiers friables et formes binaires.</i>
-    Supervisors: Cécile Dartyge (Analyse team, IECL, Université de Lorraine, France).
+    Supervisor: Cécile Dartyge (Analysis team, IECL, Université de Lorraine, France).
     </td>
   </tr>
 
   <tr>
-    <td class="col-md-3">09/2005</td>
+    <td class="col-md-3">09/2011</td>
     <td>
-        <strong>Master in Computer and Information Science</strong>
-          (mention bien, i.e., with honors)
-        <br>
-      Université Pierre et Marie Curie
+        <strong>M.Sc. in Advanced Mathematics</strong>
+          Université de Lyon <br/>
+       	Thesis: <i>Sur les nombres premiers dans les progressions arithmétiques.</i>
+    Supervisor: Cécile Dartyge (Analysis team, IECL, Université de Lorraine, France).
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">09/2005</td>
+    <td class="col-md-3">09/2009</td>
     <td>
-        <strong>Magistère in Applied Computer Science</strong>
-          (mention bien, i.e., with honors)
-        <br>
-      Université René Descartes
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">09/2002</td>
-    <td>
-        <strong>DEUG in Mathematics applied to Social Sciences</strong>
-        <br>
-      Université René Descartes
+        <strong>Licence in Mathematics</strong>
+                 <br>
+      Université de Saint-Étienne
     </td>
   </tr>
 </table>
