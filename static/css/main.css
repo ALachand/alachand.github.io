@@ -173,6 +173,14 @@ img#about {
     margin-right: auto;
 }
 
+.navbar-brand div {
+  height: 100%;
+}
+.navbar-brand img {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
 .nav-left ul {
   padding-left: 15px;
 }
