@@ -28,7 +28,7 @@
 
    <tr>
         <td class="col-md-12">
-    <td>
+  
         Barbulescu R. and Lachand A. (2017)
         <strong>Some mathematical remarks on the polynomial selection in NFS</strong>
         <i>Math. Comp.</i>. 86, 397-418.<br>
@@ -39,7 +39,7 @@
     
   <tr>
         <td class="col-md-12">
-    <td>
+  
         Lachand A. and Tenenbaum G. (2015)
         <strong>Note sur les valeurs moyennes criblées de certaines fonctions arithmétiques</strong>
         <i>Quart. J. Math. (Oxford)</i>. 66, 245-250.<br>
@@ -49,7 +49,7 @@
     </tr>
  <tr>
         <td class="col-md-12">
-    <td>
+ 
         Lachand A.
         <strong>Valeurs friables d'une forme quadratique et d'une forme linéaire</strong>
         <i>Quart. J. Math. (Oxford)</i>. 66, 225-244.<br>
