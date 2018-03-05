@@ -46,8 +46,8 @@ urls:
       url : /research/
     - text: Teaching
       url: /teaching/
-    - text: Freedom and alternatives
-      url: /alternatives/
+    - text: Open Philosophy
+      url: /open-philosophy/
     #- text: Research tips
      # url: /researchresources/
  #   - text: Feed
