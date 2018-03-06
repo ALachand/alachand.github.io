@@ -173,6 +173,11 @@ img#about {
     margin-left: auto;
     margin-right: auto;
 }
+
+.nav-left{
+	position: fixed;
+	max-width: 255px;
+}
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
 	color: #8c8c8c;
 }
