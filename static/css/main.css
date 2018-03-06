@@ -172,7 +172,9 @@ img#about {
     margin-left: auto;
     margin-right: auto;
 }
-
+.navbar .navbar-nav > li > a {
+  text-decoration: none;
+}
 .navbar-brand div {
   height: 100%;
 }
