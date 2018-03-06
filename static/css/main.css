@@ -184,6 +184,10 @@ img#about {
     text-decoration: none;
     color: #8c8c8c;
 }
+.navbar-default .navbar-nav > li > a:hover  {
+    text-decoration: none;
+    color: #8c8c8c;
+}
 .navbar-brand div {
   height: 100%;
 }
