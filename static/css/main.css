@@ -184,12 +184,12 @@ img#about {
     text-decoration: none;
     color: #8c8c8c;
 }
-.navbar-default .navbar-nav > li > a:hover  {
-    text-decoration: none;
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #8c8c8c;
+    background-color: white;
 }
 .navbar-brand div {
-  height: 100%;
+    height: 100%;
 }
 .navbar-brand img {
   margin: 0px;
