@@ -132,7 +132,8 @@
 				<div class="col-md-12">
 					<div class="navbar-header">
 						   <a href="/" class="navbar-brand">
-<div> <img id="about" src="/static/img/avatar.jpg"/>  {{ site.author }}</div></a>
+							   <div> <img id="about" src="/static/img/avatar.jpg"/>  <h2>{{ site.author }}</h2>
+							   </div></a>
                
              						<button class="navbar-toggle" type="button" data-toggle="collapse"
                     data-target="#navbar-main">
@@ -167,9 +168,9 @@
               <div class="nav-left">
                 <a href="/"><!--<img id="about" src="/static/img/avatar.jpg" height="75px" width="75px" />--></a>
                 <!--<h2 class="author-name">{{ site.author }}</h2>-->
-                {% if site.about %}
                 <div id="about">
-                    <h3>{{ site.about }}</h3>
+                    <h3>Freelance researcher in French Guyane</h3>
+			  <p>Number Theory, Cryptanalysis and Machine Learning</p>
                     <p><a href="{{ site.affiliation.link }}">{{ site.affiliation.name }}</a></p>
                 </div>
                 {% endif %}
