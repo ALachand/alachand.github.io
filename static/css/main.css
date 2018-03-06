@@ -281,8 +281,19 @@ a.btn {
         max-width: 215px;
     }
 }
+@media (max-width: 322px) {
+    .nav-left {
+        position: relative;
+    }
+}
 @media (max-width: 768px) {
     div.col-sm-3 {
        margin-top: 30px;
+    }
+}
+
+@media (max-width: 322px) {
+     div.col-sm-3 {
+       margin-top: 80px;
     }
 }
