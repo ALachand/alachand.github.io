@@ -24,7 +24,7 @@ social:
       link: "mailto:research@lachand.net"
     - icon: fa-phone
       link: "tel:+33769143321"
-    - icon: hal-icon
+    - icon: icon-hal
       link: "https://hal.archives-ouvertes.fr/search/index/q/%2A/authIdHal_s/armandlachand/"
   #  - icon: fa-linkedin
   #    link: "https://www.linkedin.com/in/summonagus"
