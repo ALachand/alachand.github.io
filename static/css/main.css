@@ -277,13 +277,12 @@ a.btn {
 /* Responsive Conditional */
 @media (min-width: 1024px) {
     .nav-left {
-        /*position: fixed;*/
+        position: fixed;
         max-width: 215px;
     }
 }
 @media (max-width: 768px) {
     div.col-sm-3 {
-        margin-top: 30px;
-	position: fixed;    
+        position: fixed;
     }
 }
