@@ -174,9 +174,13 @@ img#about {
     margin-right: auto;
 }
 
-.nav-left{
-	position: fixed;
-	max-width: 255px;
+/**.nav-left{
+*	position: fixed;
+*	max-width: 255px;
+*}
+*/
+.nav-left h3 {
+	font-size: 20px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
 	color: #8c8c8c;
