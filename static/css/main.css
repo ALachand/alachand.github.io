@@ -2,7 +2,7 @@
  * Master styling
  */
 
-
+@font-face {
   font-family: 'hal';
   src:  url('hal.eot?k61zly');
   src:  url('hal.eot?k61zly#iefix') format('embedded-opentype'),
