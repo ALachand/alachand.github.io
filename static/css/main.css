@@ -322,9 +322,16 @@ a.btn {
        margin-top: 30px;
     }
 }
-
+@media (max-width: 768px) {
+    img#about {
+       margin-right: 2em;
+    }
+}
 @media (max-width: 322px) {
      div.col-sm-3 {
        margin-top: 80px;
     }
+     img#about{
+	margin-right: auto;
+	}
 }
