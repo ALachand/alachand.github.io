@@ -2,9 +2,13 @@
  * Master styling
  */
 
-@font-face {
+
   font-family: 'hal';
-  src:     url('hal.svg') format('svg');
+  src:  url('hal.eot?k61zly');
+  src:  url('hal.eot?k61zly#iefix') format('embedded-opentype'),
+    url('hal.ttf?k61zly') format('truetype'),
+    url('hal.woff?k61zly') format('woff'),
+    url('hal.svg?k61zly#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
