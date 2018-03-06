@@ -284,5 +284,6 @@ a.btn {
 @media (max-width: 768px) {
     div.col-sm-3 {
         margin-top: 30px;
+	position: fixed;    
     }
 }
