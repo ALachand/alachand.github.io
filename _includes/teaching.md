@@ -9,7 +9,7 @@
 ### {{ class.titre }}
 <!-- class.shortname -->
 <!-- class.hours -->
-  _{{ class.track }}_ - [Course page]({{ class.link }})
+  _{{ class.track }}_ 
 
 {{ class.details }}
 
